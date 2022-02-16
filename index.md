@@ -32,8 +32,9 @@ Note that anonymous user analytics are collected and analysed for this website t
 ## News and course updates!
 
 * Course participants are encouraged to subscribe to CEDiR's email list to be kept informed of upcoming activities and benefit from its wide international network. You can subscribe to the CEDiR newsletter at the bottom of the [CEDiR webpage](https://www.educ.cam.ac.uk/research/groups/cedir/)
-* This course is part of a suite of online courses regarding educational dialogue:
- * [Educational dialogue: Conducting a reflective inquiry](https://mbrugha.github.io/reflective-inquiry/), which is for educators who want to learn more about educational dialogue and conduct a reflective inquiry into their practice.
- * [Educational dialogue: Supporting your colleagues through facilitation](https://mbrugha.github.io/course-in-a-box/), which is a course for educators who are already familiar with educational dialogue and wish to take their knowledge a step further and support their colleagues in developing their dialogic approaches.
+* This course is Course 1 of a suite of online courses regarding educational dialogue:
+ * Course 2: Conducting a reflective inquiry, which is for educators who want to learn more about educational dialogue and conduct a reflective inquiry into their practice. A link will be provided for this course once it has been launched (likely to be summer 2022).
+ * [Course 3: Supporting your colleagues through facilitation](https://mbrugha.github.io/course-in-a-box/), which is a course for educators who are already familiar with educational dialogue and wish to take their knowledge a step further and support their colleagues in developing their dialogic approaches.
+ * In addition to the above courses, a fourth course is offered as an additional course for those working in Islamic settings: Course 1A: Dialogue in Islamic Classrooms: Using Halaqah to Develop Shakhsiyah
 
 If you would like to receive updates regarding these courses and other ones in development, you can sign up using [this google form](https://forms.gle/qR1tGTAwXJDwkecV8).
