@@ -19,12 +19,12 @@ There are six weeks of modules:
   * **[Week 4:](https://mbrugha.github.io/fundamentals-of-ed-dialogue/the%20course%20modules/wk-4/)** Sara Hennessy - Visualising classroom dialogue through dialogic moves
   * **[Week 5:](https://mbrugha.github.io/fundamentals-of-ed-dialogue/the%20course%20modules/wk-5/)** Rupert Wegerif - Opening up a dialogic space for reflection and agency
   * **[Week 6:](https://mbrugha.github.io/fundamentals-of-ed-dialogue/the%20course%20modules/wk-6/)** Paulo Freire and Ramón Flecha - Transformative, holistic and decolonial approaches to dialogue
-* **[Community discussion forum](https://www.edudialogue.org/forum/)** - Join the discussion!
+* **[Community discussion forum](https://www.edudialogue.org/forum/fundamentals-mooc/)** - Join the discussion!
 * **[About the course](https://mbrugha.github.io/fundamentals-of-ed-dialogue/about/)** - Learn more about the course and contact the course creators  
 
 Please register for the course using [this google form](insert) prior to starting any of the course materials.
 
-To receive a Certificate of Completion, you will need to complete all 6 weeks of activities and submit a final assignment. Details regarding this assignment are provided in Week One.
+To receive a Certificate of Completion, you will need to complete all 6 weeks of activities and submit a final assignment, which will be a completed reflective journal of approximately 2000 words. Details regarding this assignment are provided in Week One.
 
 Note that anonymous user analytics are collected and analysed for this website to better understand engagement with the site materials and pages. For further information regarding the data collection for the research study that this course is part of, please review the [introduction to the course](https://mbrugha.github.io/fundamentals-of-ed-dialogue/modules/introduction/introduction/).
 
