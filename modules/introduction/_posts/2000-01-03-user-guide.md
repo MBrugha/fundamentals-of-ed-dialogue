@@ -34,7 +34,7 @@ The course has been created using a template from P2P University, which strives 
 
 ![alt](https://mbrugha.github.io/course-in-a-box/img/mooc_screenshot3.png)
 
-* Click on ‘The fundamentals of Educational Dialogue’ and you will see the different channels (or ‘topics’ as they're called on the forum): (1) Introductions, (2) General, and a channel to discuss each week's materials and activities.
+* Click on ‘Fundamentals MOOC Feb 2022’ and you will see the different channels (or ‘topics’ as they're called on the forum): (1) Introductions, (2) General, (3) News and course updates, and 6 channels to discuss each week's materials and activities.
 
 ![alt](https://mbrugha.github.io/course-in-a-box/img/mooc_screenshot4.png)
 
