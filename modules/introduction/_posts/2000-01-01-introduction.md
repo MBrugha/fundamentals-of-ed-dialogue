@@ -10,7 +10,7 @@ This course is 6 weeks in length, and offers a new module and focus area each we
 
 Participants can expect to spend between 2 to 3 hours per week on course readings, activities and discussions. Participants will keep a reflective learning journal throughout the course. Course tasks and activities will support you in engaging in this reflective practice. While participants are able to complete the weekly tasks whenever is convenient for their schedules, it is expected that all tasks for the week will be completed by the Sunday night GMT each week.
 
-To receive a Certificate of Completion, participants will have to complete all weekly tasks and one short assignment.
+To receive a Certificate of Completion, participants will have to complete all weekly tasks and submit a quality reflective journal of approximately 2000 words.
 
 The following video offers an introduction to the course structure and materials:
 
