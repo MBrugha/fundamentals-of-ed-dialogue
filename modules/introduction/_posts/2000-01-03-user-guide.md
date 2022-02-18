@@ -8,7 +8,7 @@ The course has been created using a template from P2P University, which strives 
 
 [About the course](https://mbrugha.github.io/fundamentals-of-ed-dialogue/about/): This page offers more information about me as well as my contact details, should you have any questions, concerns, or technical difficulties.
 
-[Discussion forum](https://www.edudialogue.org/forum/): This forum was built for you to discuss the weekly course materials, activities and for you to engage with one another about your experiences and challenges. There will be a different channel for each week. There will also be two other channels: (1) an [introductions channel](https://www.edudialogue.org/forum/) for you to post an introduction to yourself, and (2) a [general channel](https://www.edudialogue.org/forum/) for you to put any general comments or questions that might not fit within just one week’s channel.
+[Discussion forum](https://www.edudialogue.org/forum/fundamentals-mooc/): This forum was built for you to discuss the weekly course materials, activities and for you to engage with one another about your experiences and challenges. There will be a different channel for each week. There will also be three other channels: (1) an [introductions channel](https://www.edudialogue.org/forum/fundamentals-mooc/introductions-5/) for you to post an introduction to yourself, (2) a [general channel](https://www.edudialogue.org/forum/fundamentals-mooc/general-6/#post-314) for you to put any general comments or questions that might not fit within just one week’s channel, and (3) a [news and course updates](https://www.edudialogue.org/forum/fundamentals-mooc/news-and-course-updates-2/#post-315) where we will post any updates.
 
 
 **_How to register on the discussion forum:_**
