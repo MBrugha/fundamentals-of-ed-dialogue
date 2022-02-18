@@ -14,12 +14,12 @@ To receive a Certificate of Completion, participants will have to complete all w
 
 The following video offers an introduction to the course structure and materials:
 
-_Video content to be inserted_
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mf-alp5tios" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Links mentioned in the video: (can check this list after developing the video content)
 * [Registration and consent form](insert)
 * [About the course](https://mbrugha.github.io/fundamentals-of-ed-dialogue/about/)
-* [Discussion forum](https://www.edudialogue.org/forum/mooc-for-facilitators/)
+* [Discussion forum](https://www.edudialogue.org/forum/fundamentals-mooc/)
 * [User guide](https://mbrugha.github.io/fundamentals-of-ed-dialogue/modules/introduction/user-guide/)
 
 This course is part of a PhD research study titled 'Dialogic Online Teacher Professional Development: The Use of Technology to Build a Community of Practice in Educational Dialogue', which seeks to explore the intersection of technology and educational dialogue to enhance teacher professional development designed for school-level and higher education in-service teachers. Further information regarding the study is available [here](https://drive.google.com/file/d/1Ekrbz5_ma9CMDIytj4PZI81MqR6IGoyF/view?usp=sharing). 
