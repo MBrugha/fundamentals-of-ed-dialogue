@@ -24,6 +24,6 @@ Meaghan Brugha is a PhD student at the Faculty of Education, University of Cambr
 
 ## Contact details
 
-To get in touch, please email Meaghan at: meb78@cam.ac.uk
+To get in touch, please email Farah (fa287@cam.ac.uk) and/or Meaghan (meb78@cam.ac.uk)
 
 Contact details for T-SEDA and CEDiR can be found on their websites, as linked above.
