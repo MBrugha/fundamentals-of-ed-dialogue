@@ -17,9 +17,9 @@ The following video offers an introduction to the course structure and materials
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mf-alp5tios" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Links mentioned in the video: (can check this list after developing the video content)
-* [Registration and consent form](https://forms.gle/Lonit7zyfzMRomr98)
+* [Registration form and self-audit](https://forms.gle/Lonit7zyfzMRomr98)
 * [About the course](https://mbrugha.github.io/fundamentals-of-ed-dialogue/about/)
 * [Discussion forum](https://www.edudialogue.org/forum/fundamentals-mooc/)
 * [User guide](https://mbrugha.github.io/fundamentals-of-ed-dialogue/modules/introduction/user-guide/)
 
-Please note that anonymised data from the course site will be used for this study. Further data will include a pre- and post-course questionnaire and discussion forum contributions, and consent for the use of these data are requested separately via the [course registration form](insert).
+Please note that anonymised data from the course site will be used for this study. Further data will include a pre- and post-course questionnaire and discussion forum contributions, and consent for the use of these data are requested separately via the [course registration form](https://forms.gle/Lonit7zyfzMRomr98).
