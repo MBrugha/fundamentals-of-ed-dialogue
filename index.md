@@ -22,7 +22,7 @@ There are six weeks of modules:
 * **[Community discussion forum](https://www.edudialogue.org/forum/fundamentals-mooc/)** - Join the discussion!
 * **[About the course](https://mbrugha.github.io/fundamentals-of-ed-dialogue/about/)** - Learn more about the course and contact the course creators  
 
-Please register for the course using [this google form](insert) prior to starting any of the course materials.
+Please register for the course using [this google form](https://forms.gle/Lonit7zyfzMRomr98) prior to starting any of the course materials.
 
 To receive a Certificate of Completion, you will need to complete all 6 weeks of activities and submit a final assignment, which will be a completed reflective journal of approximately 2000 words. Details regarding this assignment are provided in Week One.
 
