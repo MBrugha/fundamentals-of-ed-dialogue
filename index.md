@@ -31,11 +31,9 @@ Note that anonymous user analytics are collected and analysed for this website t
 <br/><br/>
 ## News and course updates!
 
-* Please join us for our live welcome event on Saturday, February 26th 3-4pm GMT: https://cam-ac-uk.zoom.us/j/97431949551?pwd=dmtsb2l1VFZQL1czVzVBbXVRM2V4Zz09
-* If you are unable to attend, we will be hosting another welcome event on Thursday, March 3rd 7-8pm GMT using the same zoom link.
+* Please join us for our second live welcome event on Thursday, March 3rd 19:00-20:00 GMT: [https://cam-ac-uk.zoom.us/j/97431949551?pwd=dmtsb2l1VFZQL1czVzVBbXVRM2V4Zz09](https://cam-ac-uk.zoom.us/j/97431949551?pwd=dmtsb2l1VFZQL1czVzVBbXVRM2V4Zz09)
+* Other live events will be: Coworking space on Saturday, March 19th at 15:00 GMT; Coworking space on Thursday, March 24th at 19:00 GMT; Close of course session on Thursday, April 7th at 19:00 GMT; Close of course option 2 on Saturday, April 9th at 15:00 GMT. All live events can be accessed using this zoom link: [https://cam-ac-uk.zoom.us/j/97431949551?pwd=dmtsb2l1VFZQL1czVzVBbXVRM2V4Zz09](https://cam-ac-uk.zoom.us/j/97431949551?pwd=dmtsb2l1VFZQL1czVzVBbXVRM2V4Zz09)
 * For live events, all times are listed in GMT. This is a useful website to help you calculate the correct time for your location: [https://www.timeanddate.com/](https://www.timeanddate.com/) 
 * Course participants are encouraged to subscribe to CEDiR's email list to be kept informed of upcoming activities and benefit from its wide international network. You can subscribe to the CEDiR newsletter at the bottom of the [CEDiR webpage](https://www.educ.cam.ac.uk/research/groups/cedir/)
 * This course is Course 1 of a suite of online courses regarding educational dialogue. Course 2 is 'Conducting a reflective inquiry' and Course 3 is ['Supporting your colleagues through facilitation'](https://mbrugha.github.io/course-in-a-box/). Course 3 is a course for educators who are already familiar with educational dialogue and wish to take their knowledge a step further and support their colleagues in developing their dialogic approaches.
- * In addition to the above courses, a fourth course is offered as an additional course for those working in Islamic settings: Course 1A: Dialogue in Islamic Classrooms: Using Halaqah to Develop Shakhsiyah
-
-If you would like to receive updates regarding these courses and other ones in development, you can sign up using [this google form](https://forms.gle/qR1tGTAwXJDwkecV8).
+ * In addition to the above courses, a fourth course is offered as an additional course for those working in Islamic settings: Course 1A: Dialogue in Islamic Classrooms: Using Halaqah to Develop Shakhsiyah.
