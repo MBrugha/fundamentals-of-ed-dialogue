@@ -16,9 +16,9 @@ There are six weeks of modules:
   * **[Week 1:](https://mbrugha.github.io/fundamentals-of-ed-dialogue/modules/the%20course%20modules/wk-1/)** An introduction to educational dialogue
   * **[Week 2:](https://mbrugha.github.io/fundamentals-of-ed-dialogue/modules/the%20course%20modules/wk-2/)** Robin Alexander - Taking a dialogic stance
   * **[Week 3:](https://mbrugha.github.io/fundamentals-of-ed-dialogue/modules/the%20course%20modules/wk-3/)** Neil Mercer - Interthinking through exploratory talk
-  * **[Week 4:](https://mbrugha.github.io/fundamentals-of-ed-dialogue/the%20course%20modules/wk-4/)** Sara Hennessy - Visualising classroom dialogue through dialogic moves
-  * **[Week 5:](https://mbrugha.github.io/fundamentals-of-ed-dialogue/the%20course%20modules/wk-5/)** Rupert Wegerif - Opening up a dialogic space for reflection and agency
-  * **[Week 6:](https://mbrugha.github.io/fundamentals-of-ed-dialogue/the%20course%20modules/wk-6/)** Paulo Freire and Ramón Flecha - Transformative, holistic and decolonial approaches to dialogue
+  * **[Week 4:](https://mbrugha.github.io/fundamentals-of-ed-dialogue/modules/the%20course%20modules/wk-4/)** Sara Hennessy - Visualising classroom dialogue through dialogic moves
+  * **[Week 5:](https://mbrugha.github.io/fundamentals-of-ed-dialogue/modules/the%20course%20modules/wk-5/)** Rupert Wegerif - Opening up a dialogic space for reflection and agency
+  * **[Week 6:](https://mbrugha.github.io/fundamentals-of-ed-dialogue/modules/the%20course%20modules/wk-6/)** Paulo Freire and Ramón Flecha - Transformative, holistic and decolonial approaches to dialogue
 * **[Community discussion forum](https://www.edudialogue.org/forum/fundamentals-mooc/)** - Join the discussion!
 * **[About the course](https://mbrugha.github.io/fundamentals-of-ed-dialogue/about/)** - Learn more about the course and contact the course creators  
 
