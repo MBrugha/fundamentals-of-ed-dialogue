@@ -31,8 +31,7 @@ Note that anonymous user analytics are collected and analysed for this website t
 <br/><br/>
 ## News and course updates!
 
-* Note that we have added two further live events for the course! Here is the full schedule of live events: February 26th 15:00 GMT; March 3rd 19:00 GMT; March 10th 19:00 GMT; March 19th 15:00 GMT; March 24th 19:00 GMT; March 31st 19:00 GMT+1; April 7th 19:00 GMT+1; April 9th 15:00 GMT+1. All events can be accessed using the following zoom link: [https://cam-ac-uk.zoom.us/j/97431949551?pwd=dmtsb2l1VFZQL1czVzVBbXVRM2V4Zz09](https://cam-ac-uk.zoom.us/j/97431949551?pwd=dmtsb2l1VFZQL1czVzVBbXVRM2V4Zz09)
-* For live events, all times are listed in GMT. This is a useful website to help you calculate the correct time for your location: [https://www.timeanddate.com/](https://www.timeanddate.com/) 
+* Give us your feedback! Please fill out the post-course survey here: [https://forms.gle/RcemSXbnWE5Y42Pi8](https://forms.gle/RcemSXbnWE5Y42Pi8)
 * Course participants are encouraged to subscribe to CEDiR's email list to be kept informed of upcoming activities and benefit from its wide international network. You can subscribe to the CEDiR newsletter at the bottom of the [CEDiR webpage](https://www.educ.cam.ac.uk/research/groups/cedir/)
 * This course is Course 1 of a suite of online courses regarding educational dialogue. Course 2 is 'Conducting a reflective inquiry' and Course 3 is ['Supporting your colleagues through facilitation'](https://mbrugha.github.io/course-in-a-box/). Course 3 is a course for educators who are already familiar with educational dialogue and wish to take their knowledge a step further and support their colleagues in developing their dialogic approaches.
  * In addition to the above courses, a fourth course is offered as an additional course for those working in Islamic settings: Course 1A: Dialogue in Islamic Classrooms: Using Halaqah to Develop Shakhsiyah.
